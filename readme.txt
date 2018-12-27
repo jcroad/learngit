@@ -23,3 +23,5 @@ date .getMilliseconds(); //获取当前毫秒数(0-999)
 date .toLocaleDateString(); //获取当前日期
 var mytime=date .toLocaleTimeString(); //获取当前时间
 date .toLocaleString( ); //获取日期与时间
+
+asdfasdf
