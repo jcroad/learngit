@@ -25,3 +25,5 @@ var mytime=date .toLocaleTimeString(); //获取当前时间
 date .toLocaleString( ); //获取日期与时间
 
 asdfasdf
+
+asd
