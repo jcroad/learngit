@@ -27,3 +27,5 @@ date .toLocaleString( ); //获取日期与时间
 asdfasdf
 
 asd
+
+添加一个东西
